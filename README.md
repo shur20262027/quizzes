@@ -3,6 +3,9 @@
 ملفات التحديثات لكويزات شروق. كل مادة لها مجلد، وداخله updates.json (تصحيحات وأسئلة جديدة فقط، مو الكويز كامل).
 
 - law101/updates.json — LAW101
+- islam101/updates.json — ISLAM101
+- stat101/updates.json — STAT101
+- acct101/updates.json — ACCT101
 
 لا تغيّر اسم المستودع أو المجلدات أو الملفات بعد توزيع أي كويز.
 
